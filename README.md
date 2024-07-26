@@ -3,7 +3,7 @@
 
 ## About
 
-This project aims at predicting the lkelihood that someone has purchased or in possesion of a Medical insurance cover based on the various demographic, and Social-political factors.The prediction is based on the identification of key features that mainly contribute significantly to the assessmesnt of one being in possesion of a Medical Insurance cover.
+This project aims at predicting the lkelihood that someone has purchased or is in possesion of a Medical insurance cover based on the various Demographic, and Social-political factors. The prediction is based on the identification of key features that mainly contribute significantly to the assessmesnt of one being in possesion of a Medical Insurance cover.
 
 ## Features
 
