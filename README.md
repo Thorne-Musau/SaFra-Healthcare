@@ -27,7 +27,7 @@ The dataset includes the following features:
 
 ## Methodology
 
-The ``Logistic Regression``, ``Random Forest`` and ``SVM`` models aim at predicting whether a person has a Medical Incurance cover or not . By precise Feature Engineering and prioritizing key factors, the model's accuracy increses and aims to provide valuable information and insights to make valuable decisions that can be used by Medical Insurance cover companies in marketing their covers.
+The ``Logistic Regression``, ``Random Forest`` and ``SVM`` models aim at predicting whether a person has a Medical Insurance cover or not . By precise Feature Engineering and prioritizing key factors, the models' accuracy increases and aims to provide valuable information and insights to make valuable decisions that can be used by Medical Insurance cover companies in marketing their covers.
 
 ## Courtesy
 Data was compiled and consolidated by ``SaFra Data.``
