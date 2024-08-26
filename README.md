@@ -2,7 +2,7 @@
 
 ## 📖 About
 
-This project aims at predicting the likelihood that someone has purchased or is in possession of a Medical insurance cover based on various demographic and socio-political factors. The prediction is based on identifying key features that significantly contribute to the assessment of one being in possession of a Medical Insurance cover.
+This SaFra Data project aims at predicting the likelihood that someone has purchased or is in possession of a Medical insurance cover based on various demographic and socio-political factors. The prediction is based on identifying key features that significantly contribute to the assessment of one being in possession of a Medical Insurance cover.
 
 ## 📊 Features
 
